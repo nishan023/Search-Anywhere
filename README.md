@@ -45,7 +45,7 @@ A premium, modern Chrome Extension (Manifest V3) that allows you to search selec
 ## Download
 
 - [![Download Search-Anywhere.zip](https://img.shields.io/badge/Download-Search--Anywhere.zip-00C853?style=for-the-badge&logo=google-chrome)](https://github.com/nishan023/Search-Anywhere/archive/refs/tags/v1.0.0.zip)
-- Direct download: https://github.com/nishan023/Search-Anywhere/releases/download/v1.0.0/Search-Anywhere.zip
+- Direct download: https://github.com/nishan023/Search-Anywhere/archive/refs/tags/v1.0.0.zip
 - All releases: https://github.com/nishan023/Search-Anywhere/releases
 
 If you want to use the source directly, download or clone the repository from:
