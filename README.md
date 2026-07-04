@@ -1,6 +1,20 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Search Anywhere Logo" width="100" height="100" style="border-radius: 50%;">
+</p>
+
 # Search Anywhere — Chrome Extension
 
 A premium, modern Chrome Extension (Manifest V3) that allows you to search selected text on any of your favorite websites directly from the right-click context menu. Fully customizable with categories, real-time website favicons, drag-and-drop ordering, and a sleek dark glassmorphism popup dashboard.
+
+## Preview
+
+<p align="center">
+  <img src="assets/options.png" alt="Settings Dashboard" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/popup.png" alt="Extension Popup" width="300">
+</p>
 
 ## Features
 
