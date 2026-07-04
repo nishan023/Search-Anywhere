@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Search Anywhere</title>
+  <link rel="stylesheet" href="popup.css">
+  <link rel="icon" type="image/png" href="../icons/icon16.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+<body>
+  <div class="popup-wrap">
+
+    <header class="popup-header">
+      <div class="popup-header-left">
+        <img src="../icons/icon32.png" alt="Search Anywhere" class="popup-logo" id="popup-logo">
+        <span class="popup-title">Search Anywhere</span>
+      </div>
+      <div style="display: flex; align-items: center; gap: 4px;">
+        <a href="https://github.com/nishan023/Search-Anywhere" target="_blank" class="popup-settings-btn tooltip-left" data-tooltip="Source Code" style="text-decoration: none;">
+          <i class="fa-brands fa-github"></i>
+        </a>
+        <button class="popup-settings-btn tooltip-left" id="settings-btn" data-tooltip="Settings">
+          <i class="fa-solid fa-gear"></i>
+        </button>
+      </div>
+    </header>
+
+    <div class="popup-tabs" id="popup-tabs"></div>
+
+    <div class="popup-list" id="popup-list"></div>
+
+    <footer class="popup-footer">
+      <button class="popup-full-btn" id="full-settings-btn">
+        <i class="fa-solid fa-sliders"></i> Full Settings
+      </button>
+      <div class="popup-credit">Developed by <a href="https://github.com/nishan023" target="_blank" class="credit-link">nishan</a></div>
+    </footer>
+
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
